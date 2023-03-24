@@ -1,0 +1,31 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" version="1.1" id="svg5">
+  <defs id="defs2">
+    <linearGradient id="linearGradient37712">
+      <stop style="stop-color:#bf0fff;stop-opacity:1" offset="0" id="stop37708"/>
+      <stop style="stop-color:#fd11c1;stop-opacity:1" offset="1" id="stop37710"/>
+    </linearGradient>
+    <linearGradient id="linearGradient8540">
+      <stop style="stop-color:#f6741b;stop-opacity:1;" offset="0" id="stop8538"/>
+    </linearGradient>
+    <marker style="overflow:visible" id="Arrow1Lstart" refX="0" refY="0" orient="auto">
+      <path transform="matrix(0.8,0,0,0.8,10,0)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="M 0,0 5,-5 -12.5,0 5,5 Z" id="path2468"/>
+    </marker>
+    <marker style="overflow:visible" id="SquareL" refX="0" refY="0" orient="auto">
+      <path transform="scale(0.8)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="M -5,-5 V 5 H 5 V -5 Z" id="path2538"/>
+    </marker>
+    <linearGradient xlink:href="#linearGradient37712" id="linearGradient37714" x1="24" y1="-2.1163919" x2="24" y2="50.11639" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  <g id="layer2"/>
+  <g id="layer1">
+    <g id="g3567" style="stroke:#ffffff;stroke-width:4.38054;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="matrix(0.55930822,0,0,0.55924167,10.625224,10.549877)"/>
+    <g id="g35437" transform="matrix(-0.91896309,-0.91896309,0.91896309,-0.91896309,24,68.110228)" style="stroke-width:0.769462">
+      <g id="g37706" style="stroke:url(#linearGradient37714)">
+        <g id="g37118" style="stroke:url(#linearGradient37714)">
+          <path id="path35351" style="fill:none;fill-opacity:0.474048;stroke:url(#linearGradient37714);stroke-width:4.61677;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill" d="M 15.685431,32.052632 C 15.243798,29.572782 15,26.852823 15,24 15,12.40202 19.029437,3 24,3 c 4.970563,0 9,9.40202 9,21"/>
+          <path id="ellipse35433" style="fill:none;fill-opacity:0.474048;stroke:url(#linearGradient37714);stroke-width:4.61677;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill" transform="rotate(-90)" d="M -32.261186,15.653959 C -30.877689,8.2083514 -27.699518,3 -24,3 c 4.970563,0 9,9.40202 9,21 0,11.59798 -4.029437,21 -9,21 -2.840703,0 -5.374017,-3.070872 -7.023466,-7.867504"/>
+          <circle style="fill:none;fill-opacity:0.474048;stroke:url(#linearGradient37714);stroke-width:4.61677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" id="path36888" cx="11.541924" cy="-45.483047" transform="rotate(135)" r="4.6167693"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
